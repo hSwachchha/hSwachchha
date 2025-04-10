@@ -1,6 +1,6 @@
 <img src="banner-github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Nayem, a Web Developer 👋🏼:
+# Hello World!, I'm a Web Developer 👋🏼:
 
 # 💻 Tech Stack:
 
